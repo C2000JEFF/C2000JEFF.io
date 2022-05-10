@@ -1,10 +1,9 @@
-# 日常
 name: 欢迎
 email: 2693532573@qq.com
 url: url
 #description: "A blog and a portfolio"
 author: "CQQ"
-title: "日常"
+title: "欢迎"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
