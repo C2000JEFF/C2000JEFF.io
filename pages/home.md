@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 日常
+title: 欢迎
 permalink: index.html
 ---
 
