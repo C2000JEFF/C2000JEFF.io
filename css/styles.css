@@ -1,6 +1,6 @@
 .footer {
   background-color: whitesmoke;
-  padding: 1rem 1.5rem 6rem;
+  padding: 1rem 1.5rem 3rem;
 }
 
 html {
@@ -9,7 +9,7 @@ html {
 
 body {
   position: relative;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
   min-height: 100%;
   font-family: "Crimson Text", "Georgia", serif;
 }
