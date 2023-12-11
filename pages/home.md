@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欢迎
+title: 
 permalink: index.html
 ---
 
